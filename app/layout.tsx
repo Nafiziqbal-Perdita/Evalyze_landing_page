@@ -39,6 +39,11 @@ export const metadata: Metadata = {
       "Get instant, AI-powered feedback on IELTS Writing Tasks 1 & 2. Practice smarter and boost your band score with Evalyze.",
     images: ["/evalyze_1.png"],
   },
+  icons: {
+    icon: "/evalyze_1.png",
+    shortcut: "/evalyze_1.png",
+    apple: "/evalyze_1.png",
+  },
 };
 
 export default function RootLayout({
